@@ -1,0 +1,13 @@
+{
+  "name": "ixer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "tweet": "node tweet.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "otplib": "^12.0.1",
+    "playwright": "^1.44.1"
+  }
+}
